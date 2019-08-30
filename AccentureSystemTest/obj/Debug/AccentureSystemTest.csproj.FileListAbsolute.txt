@@ -1,0 +1,10 @@
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\bin\Debug\AccentureSystemTest.exe.config
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\bin\Debug\AccentureSystemTest.exe
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\bin\Debug\AccentureSystemTest.pdb
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\obj\Debug\AccentureSystemTest.csprojAssemblyReference.cache
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\obj\Debug\AccentureSystemTest.csproj.CoreCompileInputs.cache
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\obj\Debug\AccentureSystemTest.csproj.CopyComplete
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\obj\Debug\AccentureSystemTest.exe
+D:\Projects\Sample Projects\AccentureSystemTest\AccentureSystemTest\obj\Debug\AccentureSystemTest.pdb
